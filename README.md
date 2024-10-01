@@ -1,6 +1,6 @@
 # Heart Disease Prediction - DSN Bootcamp 2024 Qualification Hackathon
 <p align="center">
-<img src="images/heart disease.jpg" alt="Heart Disease" height=312 width=820/>
+<img src="images/DSN-Data-Science-Nigeria-Logo.png" alt="Heart Disease" height=312 width=820/>
 </p>
 
 
