@@ -1,10 +1,13 @@
 # Heart Disease Prediction - DSN Bootcamp 2024 Qualification Hackathon
-
 <p align="center">
 <img src="images/heart disease.jpg" alt="Heart Disease" height=312 width=820/>
 </p>
 
+
 ## PROBLEM STATEMENT
+<p align="center">
+<img src="images/heart disease.jpg" alt="Heart Disease" height=312 width=820/>
+</p>
 
 > Heart disease is one of the leading causes of global mortality. Early detection is crucial for improving patient outcomes and halting its progression. This challenge aims to develop a cost-effective and efficient method for assessing heart disease risk using readily available patient information.
 
