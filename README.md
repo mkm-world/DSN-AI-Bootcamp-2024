@@ -23,9 +23,6 @@ The objective of this challenge is to design and build a sophisticated predictiv
 
 ## Data Preprocessing
 
-<p align="center">
-<img src="images/data_preprocessing.png" alt="Data Preprocessing" height=150 width=820/>
-</p>
 
 - Cleaning column names for consistency
 - Handling missing values
@@ -34,9 +31,6 @@ The objective of this challenge is to design and build a sophisticated predictiv
 
 ## Model Selection and Training
 
-<p align="center">
-<img src="images/model_selection.png" alt="Model Selection" height=150 width=820/>
-</p>
 
 - Implementing multiple models:
   - Logistic Regression
@@ -47,9 +41,6 @@ The objective of this challenge is to design and build a sophisticated predictiv
 
 ## Hyperparameter Tuning
 
-<p align="center">
-<img src="images/hyperparameter_tuning.png" alt="Hyperparameter Tuning" height=150 width=820/>
-</p>
 
 - Utilizing Optuna for hyperparameter optimization of CatBoost and XGBoost models
 - Defining search spaces for key hyperparameters
@@ -57,9 +48,7 @@ The objective of this challenge is to design and build a sophisticated predictiv
 
 ## Ensemble Learning
 
-<p align="center">
-<img src="images/ensemble_learning.png" alt="Ensemble Learning" height=150 width=820/>
-</p>
+
 
 - Implementing a Voting Classifier to combine the strengths of the best-performing models
 - Using soft voting with weighted predictions
@@ -67,9 +56,7 @@ The objective of this challenge is to design and build a sophisticated predictiv
 
 ## Cross-Validation
 
-<p align="center">
-<img src="images/cross_validation.png" alt="Cross-Validation" height=150 width=820/>
-</p>
+s
 
 - Employing Stratified K-Fold cross-validation to ensure robust performance estimation
 - Handling potential data imbalance
