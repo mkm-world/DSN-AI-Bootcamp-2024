@@ -9,14 +9,13 @@
 <img src="images/heart disease.jpg" alt="Heart Disease" height=312 width=820/>
 </p>
 
-> Heart disease is one of the leading causes of global mortality. Early detection is crucial for improving patient outcomes and halting its progression. This challenge aims to develop a cost-effective and efficient method for assessing heart disease risk using readily available patient information.
+Heart disease is one of the leading causes of global mortality. Early detection is crucial for improving patient outcomes and halting its progression. This challenge aims to develop a cost-effective and efficient method for assessing heart disease risk using readily available patient information.
 
-> The objective of this challenge is to design and build a sophisticated predictive model capable of accurately determining the probability of an individual having heart disease.
+The objective of this challenge is to design and build a sophisticated predictive model capable of accurately determining the probability of an individual having heart disease.
 
 ## Table of Contents
 
 - [Data Preprocessing](#data-preprocessing)
-- [Feature Engineering](#feature-engineering)
 - [Model Selection and Training](#model-selection-and-training)
 - [Hyperparameter Tuning](#hyperparameter-tuning)
 - [Ensemble Learning](#ensemble-learning)
@@ -32,15 +31,6 @@
 - Handling missing values
 - Encoding categorical variables using one-hot encoding
 - Normalizing numerical features using StandardScaler
-
-## Feature Engineering
-
-<p align="center">
-<img src="images/feature_engineering.png" alt="Feature Engineering" height=150 width=820/>
-</p>
-
-- Identifying and using relevant features for model training
-- Creating new features if applicable (not explicitly mentioned in the notebook)
 
 ## Model Selection and Training
 
