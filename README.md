@@ -73,4 +73,4 @@ s
 
 ## Support
 
-For any issues, suggestions, or queries, contact the maintainer at [your-email@example.com].
+For any issues, suggestions, or queries, contact the maintainer at [makindekayode75@gmail.com].
